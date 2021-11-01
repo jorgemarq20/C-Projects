@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1634826338 source:c:\users\jorge\onedrive - cork college of commerce\college 2021\object oriented programming (c++)\all projects\formatting iomanip\main.cpp
+	<iostream>
+	<string>
+	"Employee.h"
+
+1634826380 c:\users\jorge\onedrive - cork college of commerce\college 2021\object oriented programming (c++)\all projects\formatting iomanip\include\employee.h
+	<iostream>
+	<string>
+	"Employee.h"
+

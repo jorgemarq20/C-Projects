@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1633964153 source:c:\users\jorge.marques\onedrive - cork college of commerce\college 2021\object oriented programming (c++)\all projects\gym test\main.cpp
+	<iostream>
+	"gymnast.h"
+	<string>
+
+1633964100 c:\users\jorge.marques\onedrive - cork college of commerce\college 2021\object oriented programming (c++)\all projects\gym test\include\gymnast.h
+	<iostream>
+	<string>
+
+1633964136 source:c:\users\jorge.marques\onedrive - cork college of commerce\college 2021\object oriented programming (c++)\all projects\gym test\src\gymnast.cpp
+	"gymnast.h"
+	<iostream>
+	<string>
+
+1633964153 source:c:\users\jorge\onedrive - cork college of commerce\college 2021\object oriented programming (c++)\all projects\gym test\main.cpp
+	<iostream>
+	"gymnast.h"
+	<string>
+
+1634221576 c:\users\jorge\onedrive - cork college of commerce\college 2021\object oriented programming (c++)\all projects\gym test\include\gymnast.h
+	<iostream>
+	<string>
+
+1634221608 source:c:\users\jorge\onedrive - cork college of commerce\college 2021\object oriented programming (c++)\all projects\gym test\src\gymnast.cpp
+	"gymnast.h"
+	<iostream>
+	<string>
+

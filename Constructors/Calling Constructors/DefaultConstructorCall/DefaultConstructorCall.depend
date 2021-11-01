@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1633618206 source:c:\users\jorge\onedrive - cork college of commerce\college 2021\object oriented programming (c++)\all projects\constructors\calling constructors\defaultconstructorcall\main.cpp
+	<iostream>
+	"car.h"
+
+1633618231 c:\users\jorge\onedrive - cork college of commerce\college 2021\object oriented programming (c++)\all projects\constructors\calling constructors\defaultconstructorcall\include\car.h
+	<string>
+
+1633618081 source:c:\users\jorge\onedrive - cork college of commerce\college 2021\object oriented programming (c++)\all projects\constructors\calling constructors\defaultconstructorcall\src\car.cpp
+	"Car.h"
+	<iostream>
+	<string>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1634831049 source:c:\users\jorge\onedrive - cork college of commerce\college 2021\object oriented programming (c++)\all projects\overloading --\main.cpp
+	<iostream>
+	"stopwatch.h"
+
+1634830808 c:\users\jorge\onedrive - cork college of commerce\college 2021\object oriented programming (c++)\all projects\overloading --\include\stopwatch.h
+
+1634831118 source:c:\users\jorge\onedrive - cork college of commerce\college 2021\object oriented programming (c++)\all projects\overloading --\src\stopwatch.cpp
+	"stopwatch.h"
+	<iomanip>
+	<iostream>
+

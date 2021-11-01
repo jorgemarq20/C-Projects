@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1634211927 source:c:\users\jorge\onedrive - cork college of commerce\college 2021\object oriented programming (c++)\all projects\tunnelsandlifts\practise\main.cpp
+	<iostream>
+	"SnakesAndLadders.h"
+	<cstdlib>
+
+1634212149 c:\users\jorge\onedrive - cork college of commerce\college 2021\object oriented programming (c++)\all projects\tunnelsandlifts\practise\include\snakesandladders.h
+	<string>
+

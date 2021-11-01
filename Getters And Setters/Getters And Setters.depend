@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1634223237 source:c:\users\jorge\onedrive - cork college of commerce\college 2021\object oriented programming (c++)\all projects\tunnelsandlifts\getters and setters\main.cpp
+	<iostream>
+	"GettersAndSetters.h"
+
+1634223639 c:\users\jorge\onedrive - cork college of commerce\college 2021\object oriented programming (c++)\all projects\tunnelsandlifts\getters and setters\include\gettersandsetters.h
+	<iostream>
+	<string>
+
+1634223902 source:c:\users\jorge\onedrive - cork college of commerce\college 2021\object oriented programming (c++)\all projects\tunnelsandlifts\getters and setters\src\gettersandsetters.cpp
+	"GettersAndSetters.h"
+	<iostream>
+	<string>
+

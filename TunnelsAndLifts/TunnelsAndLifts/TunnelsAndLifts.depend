@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1633621874 source:c:\users\jorge\onedrive - cork college of commerce\college 2021\object oriented programming (c++)\all projects\tunnelsandlifts\tunnelsandlifts\main.cpp
+	<iostream>
+	"Player.h"
+
+1633621833 c:\users\jorge\onedrive - cork college of commerce\college 2021\object oriented programming (c++)\all projects\tunnelsandlifts\tunnelsandlifts\include\player.h
+
+1633621814 source:c:\users\jorge\onedrive - cork college of commerce\college 2021\object oriented programming (c++)\all projects\tunnelsandlifts\tunnelsandlifts\src\player.cpp
+	<iostream>
+	"Player.h"
+	<stdlib.h>
+	<time.h>
+
+1633962102 source:c:\users\jorge.marques\onedrive - cork college of commerce\college 2021\object oriented programming (c++)\all projects\tunnelsandlifts\tunnelsandlifts\main.cpp
+	<iostream>
+	<cstdlib>
+	"Player.h"
+
+1633962125 c:\users\jorge.marques\onedrive - cork college of commerce\college 2021\object oriented programming (c++)\all projects\tunnelsandlifts\tunnelsandlifts\include\player.h
+	<string>
+
+1633962280 source:c:\users\jorge.marques\onedrive - cork college of commerce\college 2021\object oriented programming (c++)\all projects\tunnelsandlifts\tunnelsandlifts\src\player.cpp
+	<iostream>
+	"Player.h"
+	<stdlib.h>
+	<time.h>
+	<string>
+
